@@ -10,3 +10,9 @@ going down the content section in the index.html sheet it will show you id and c
 Addinsg images into the content section as well as having those images have an alt 
 
 Now lookin at the benefits section we have the small images that also offer a little more insight of what the webiste offers 
+
+for our style CSS we were able to combine some of the headings together and shorten the amount of lines we used in the style.css sheet
+
+i added some small notes that indicate where the styles for a specific section start and end.
+
+Working with the broken code that was given i noticed some duplicates so i was able to minimize those as well, and move the style codes to the correct sections. for exmaplr the conent section styles were scattered around in between the benefit section styles and the footer so i went ahead and placed them in their correct sections.
