@@ -8,3 +8,5 @@ we start with the headre section at the top, in that section youre able to click
 going down the content section in the index.html sheet it will show you id and classes for the corresponding headers that allow links to connect
 
 Addinsg images into the content section as well as having those images have an alt 
+
+Now lookin at the benefits section we have the small images that also offer a little more insight of what the webiste offers 
